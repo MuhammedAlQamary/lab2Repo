@@ -3,9 +3,9 @@ local branches
     git branch -d <branch_name>
 remote branches
     git push origin --delete <branch_name>
-## ● how to list tags in local
+● how to list tags in local
     git tag
-## ● tell me how to delete tag locally and remotely.
+● tell me how to delete tag locally and remotely.
 locally
     git tag -d v1.0
 remote
